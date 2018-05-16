@@ -25,10 +25,10 @@
 
 * abrir terminar.
 * clonar el repositorio `git clone git@github.com:Silverhill/coupon-blog.git`.
-* ingresar a  `cd coupon-blog`.
+* ingresar a `cd coupon-blog`.
 * version node => `v8.11.1`,
-* comando de instalación. =>  `npm install`.
-* comando para iniciar el proyecto. =>  `npm start`.
+* comando de instalación. => `npm install`.
+* comando para iniciar el proyecto. => `npm start`.
 * navegar a [http://localhost:2368/](http://localhost:2368/)
 
 ### Estructura de caperta para el tema coupon-blog
